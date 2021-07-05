@@ -1,0 +1,2 @@
+# Scripts
+Maze light game
