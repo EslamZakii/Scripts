@@ -1,2 +1,1 @@
-# Scripts
-Maze light game
+# Ziggy bird game
