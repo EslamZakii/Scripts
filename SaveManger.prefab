@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8221084843193815856
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4987366090611181683}
+  - component: {fileID: 7120361004661466900}
+  m_Layer: 0
+  m_Name: SaveManger
+  m_TagString: GameDataProfile
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4987366090611181683
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8221084843193815856}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 52.055676, y: 293.18243, z: -133.40327}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7120361004661466900
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8221084843193815856}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a85dedaf88a2b4f49be95071898901c4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pricess: 00000000e80300008813000010270000983a0000204e0000a861000030750000b8880000409c0000c8af000050c30000d8d6000060ea0000e8fd000070110100f824010080380100084c0100a0860100
+  isBought: 0000000000000000000000000000000000000000
+  current_Material: {fileID: 0}
+  henSkins:
+  - {fileID: 2100000, guid: e028095b335e7af4883cd903410737ba, type: 2}
+  - {fileID: 2100000, guid: 5ba36108c5258eb459eed5d3ec028200, type: 2}
+  - {fileID: 2100000, guid: e7d77029b08991d4d96b9c444dbe6af3, type: 2}
+  - {fileID: 2100000, guid: fcfdd0c5e4b018941aca12af82ba653a, type: 2}
+  - {fileID: 2100000, guid: 948b974427e12cc40ad5db6fd77ad72d, type: 2}
+  - {fileID: 2100000, guid: 2a4ddb15e3499f042a45ac07e4cc7dfe, type: 2}
+  - {fileID: 2100000, guid: 37ef8b8efc348564b9eadc620315348d, type: 2}
+  - {fileID: 2100000, guid: 89f05871c774b3543bb91389be58e1ad, type: 2}
+  - {fileID: 2100000, guid: 4df4394375b683748822463e51be5d56, type: 2}
+  - {fileID: 2100000, guid: cf631a8621bf2064faaac1ed388783ec, type: 2}
+  - {fileID: 2100000, guid: f070c44b8c247504eaa63e51a2c9ee28, type: 2}
+  - {fileID: 2100000, guid: 07d154dd0301a644d9b665e522e747de, type: 2}
+  - {fileID: 2100000, guid: 61f33384d674c3f4ba1816d7a99ae45d, type: 2}
+  - {fileID: 2100000, guid: deef02ee5642d844195d385c9ce0e145, type: 2}
+  - {fileID: 2100000, guid: f84933cc92a8def4ca9eb05ede4c8b95, type: 2}
+  - {fileID: 2100000, guid: 2dc64f54d71694748aae78fe6e89d4c2, type: 2}
+  - {fileID: 2100000, guid: ef9b355f6cb8d4840ae18106bd64d5c6, type: 2}
+  - {fileID: 2100000, guid: b2c78bc2154f81d4a96553214cb368bd, type: 2}
+  - {fileID: 2100000, guid: 68b0daabe290b9d46a2c7f2822d56afd, type: 2}
+  - {fileID: 2100000, guid: 1baf563782102734c8037c1059b0f02f, type: 2}
+  hen_Rendder: {fileID: 0}
+  chickenModel1: {fileID: 0}
+  eggPrice_Text: {fileID: 0}
+  allegg_Text: {fileID: 0}
+  notEnoughEggTxt: {fileID: 0}
+  pirceHeader: {fileID: 0}
+  notEnoughEggss: {fileID: 0}
+  priceHeader: {fileID: 0}
+  eggCurrencyAll: {fileID: 0}
